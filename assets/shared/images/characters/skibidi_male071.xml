@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="skibidi_male071.png" width="1173" height="1236">
+  <SubTexture name="up0002_copy_202x202.png" x="0" y="0"  width="106" height="189" frameX="-44" frameY="-5" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="up0003_copy_202x202.png" x="0" y="189"  width="106" height="189" frameX="-44" frameY="-5" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="left0002_copy_202x202.png" x="0" y="378"  width="117" height="188" frameX="-33" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="left0003_copy_202x202.png" x="106" y="0"  width="117" height="188" frameX="-33" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="left0001_copy_202x202.png" x="106" y="188"  width="116" height="188" frameX="-34" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="left0004_copy_202x202.png" x="0" y="566"  width="115" height="188" frameX="-35" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0001_copy_202x202.png" x="0" y="754"  width="113" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="down0000_copy_202x202.png" x="0" y="942"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="down0001_copy_202x202.png" x="0" y="1130" width="188" height="106" rotated="true"  frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="down0002_copy_202x202.png" x="106" y="942"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="down0004_copy_202x202.png" x="212" y="942"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="down0005_copy_202x202.png" x="113" y="754"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="empty0000_copy_202x202.png" x="219" y="754"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0000_copy_202x202.png" x="115" y="566"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0001_copy_202x202.png" x="117" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0002_copy_202x202.png" x="222" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0003_copy_202x202.png" x="223" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0004_copy_202x202.png" x="221" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0005_copy_202x202.png" x="325" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0006_copy_202x202.png" x="431" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0007_copy_202x202.png" x="537" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0009_copy_202x202.png" x="328" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0011_copy_202x202.png" x="329" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0000_copy_202x202.png" x="434" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0001_copy_202x202.png" x="435" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0002_copy_202x202.png" x="540" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0003_copy_202x202.png" x="541" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0004_copy_202x202.png" x="188" y="1130" width="188" height="106" rotated="true"  frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0005_copy_202x202.png" x="318" y="942"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0006_copy_202x202.png" x="325" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0007_copy_202x202.png" x="424" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0008_copy_202x202.png" x="530" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0009_copy_202x202.png" x="376" y="1130" width="188" height="106" rotated="true"  frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0010_copy_202x202.png" x="424" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0011_copy_202x202.png" x="431" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0012_copy_202x202.png" x="530" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0013_copy_202x202.png" x="537" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0014_copy_202x202.png" x="643" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0015_copy_202x202.png" x="636" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0016_copy_202x202.png" x="643" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0017_copy_202x202.png" x="742" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0018_copy_202x202.png" x="646" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0019_copy_202x202.png" x="749" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0020_copy_202x202.png" x="855" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0021_copy_202x202.png" x="749" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0022_copy_202x202.png" x="848" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0023_copy_202x202.png" x="564" y="1128" width="188" height="106" rotated="true"  frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="flush0024_copy_202x202.png" x="636" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0000_copy_202x202.png" x="742" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0002_copy_202x202.png" x="848" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0003_copy_202x202.png" x="954" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0005_copy_202x202.png" x="1060" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0007_copy_202x202.png" x="749" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0009_copy_202x202.png" x="848" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0011_copy_202x202.png" x="954" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="left0000_copy_202x202.png" x="1060" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0000_copy_202x202.png" x="855" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0002_copy_202x202.png" x="954" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0003_copy_202x202.png" x="961" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0005_copy_202x202.png" x="961" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0006_copy_202x202.png" x="1060" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="up0000_copy_202x202.png" x="1067" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="up0001_copy_202x202.png" x="1067" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="up0004_copy_202x202.png" x="855" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="down0003_copy_202x202.png" x="106" y="942"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0008_copy_202x202.png" x="537" y="376"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0010_copy_202x202.png" x="328" y="188"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="enter0012_copy_202x202.png" x="329" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0001_copy_202x202.png" x="742" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0004_copy_202x202.png" x="954" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0006_copy_202x202.png" x="1060" y="940"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0008_copy_202x202.png" x="749" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0010_copy_202x202.png" x="848" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="idle0012_copy_202x202.png" x="954" y="564"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="left0005_copy_202x202.png" x="0" y="566"  width="115" height="188" frameX="-35" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="right0004_copy_202x202.png" x="961" y="0"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+  <SubTexture name="up0005_copy_202x202.png" x="855" y="752"  width="106" height="188" frameX="-44" frameY="-6" frameWidth="202" frameHeight="202"/>
+</TextureAtlas>
